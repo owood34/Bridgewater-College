@@ -12,5 +12,8 @@ This project was fun to create and I was finished with it early so I kept adding
 ## Final Project
 This project was built using Babylon.js and it took me forever to create.
 We were suppose to make an immersive 3d work around a painting of our choice.
-Personally, I chose the 
+Personally, I chose the _Painting Wandering Above the Sea of Clouds_ by Casper David Friedrich created in 1818
+
+I added a town and tons of places for the player to explore but it is also not completed at least to my liking.
+There are several areas where the trees do not sit, rocks do not lay, nor foundation stands, but it is still done very well.
 
