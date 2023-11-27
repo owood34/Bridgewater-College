@@ -1,0 +1,2 @@
+If using a21_hm2.png camera position = 7481 3195 2536, subdivisions: 8
+If using a21_hm3.png camera position = 
